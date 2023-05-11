@@ -2,7 +2,7 @@
 
 ## DEMO
 
- 
+ https://ryonakashinski.github.io/JankenNew/
 
 ## 紹介と使い方
 
